@@ -1,0 +1,2 @@
+#Thu Dec 07 00:34:45 PST 2023
+BORDER_FOG=false

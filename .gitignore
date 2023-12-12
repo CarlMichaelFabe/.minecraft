@@ -1,0 +1,14 @@
+/*
+/*/
+!.gitignore
+!/config/
+!/datapacks/
+!/global_packs/
+!/journeymap/
+/journeymap/*
+!/journeymap/config/
+!/journeymap/server/
+!/mods/
+!/resourcepacks/
+!/shaderpacks/
+!/options*.txt
