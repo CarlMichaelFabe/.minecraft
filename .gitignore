@@ -1,7 +1,9 @@
 /*
 /*/
 !.gitignore
+!/.vscode/
 !/config/
+/config/headindex-cache
 !/datapacks/
 !/global_packs/
 !/journeymap/
