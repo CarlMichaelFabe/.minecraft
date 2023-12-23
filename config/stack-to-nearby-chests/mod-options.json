@@ -1,0 +1,417 @@
+{
+  "appearance": {
+    "showStackToNearbyContainersButton": {
+      "value": true
+    },
+    "showRestockFromNearbyContainersButton": {
+      "value": true
+    },
+    "showQuickStackButton": {
+      "value": true
+    },
+    "showRestockButton": {
+      "value": true
+    },
+    "showButtonTooltip": {
+      "value": true
+    },
+    "stackToNearbyContainersButtonPosX": {
+      "defaultValue": 140,
+      "value": 140
+    },
+    "stackToNearbyContainersButtonPosY": {
+      "defaultValue": 170,
+      "value": 170
+    },
+    "restockFromNearbyContainersButtonPosX": {
+      "defaultValue": 160,
+      "value": 160
+    },
+    "restockFromNearbyContainersButtonPosY": {
+      "defaultValue": 170,
+      "value": 170
+    },
+    "quickStackButtonPosX": {
+      "defaultValue": 6,
+      "value": 6
+    },
+    "quickStackButtonPosY": {
+      "defaultValue": -10,
+      "value": -10
+    },
+    "restockButtonPosX": {
+      "defaultValue": 6,
+      "value": 6
+    },
+    "restockButtonPosY": {
+      "defaultValue": 10,
+      "value": 10
+    },
+    "favoriteItemStyle": "stack-to-nearby-chests:gold_badge",
+    "alwaysShowMarkersForFavoritedItems": {
+      "value": true
+    }
+  },
+  "behavior": {
+    "searchInterval": {
+      "defaultValue": 0,
+      "value": 0
+    },
+    "supportForContainerEntities": {
+      "value": true
+    },
+    "doNotQuickStackItemsFromTheHotbar": {
+      "value": true
+    },
+    "enableItemFavoriting": {
+      "value": true
+    },
+    "favoriteItemsCannotBePickedUp": {
+      "value": false
+    },
+    "favoriteItemStacksCannotBeThrown": {
+      "value": false
+    },
+    "favoriteItemStacksCannotBeQuickMoved": {
+      "value": false
+    },
+    "favoriteItemStacksCannotBeSwapped": {
+      "value": false
+    },
+    "favoriteItemsCannotBeSwappedWithOffhand": {
+      "value": false
+    },
+    "stackingTargets": [
+      "minecraft:orange_shulker_box",
+      "expandedstorage:iron_barrel",
+      "expandedstorage:iron_mini_chest",
+      "expandedstorage:moss_chest",
+      "charm:birch_barrel",
+      "expandedstorage:white_mini_present",
+      "expandedstorage:obsidian_mini_barrel",
+      "minecraft:trapped_chest",
+      "charm:oak_chest",
+      "charm:mangrove_chest",
+      "expandedstorage:pumpkin_mini_chest",
+      "expandedstorage:diamond_mini_chest",
+      "charm:ebony_trapped_chest",
+      "minecraft:purple_shulker_box",
+      "expandedstorage:waxed_exposed_copper_mini_barrel",
+      "minecraft:gray_shulker_box",
+      "charm:azalea_barrel",
+      "charm:jungle_trapped_chest",
+      "expandedstorage:netherite_chest",
+      "minecraft:shulker_box",
+      "expandedstorage:waxed_weathered_copper_barrel",
+      "charm:ebony_barrel",
+      "expandedstorage:weathered_copper_mini_barrel",
+      "charm:azalea_trapped_chest",
+      "minecraft:pink_shulker_box",
+      "expandedstorage:waxed_exposed_copper_barrel",
+      "expandedstorage:exposed_copper_barrel",
+      "minecraft:light_gray_shulker_box",
+      "charm:oak_trapped_chest",
+      "expandedstorage:waxed_weathered_copper_mini_barrel",
+      "minecraft:blue_shulker_box",
+      "minecraft:brown_shulker_box",
+      "expandedstorage:gold_barrel",
+      "minecraft:chest",
+      "expandedstorage:netherite_barrel",
+      "charm:acacia_barrel",
+      "expandedstorage:old_obsidian_chest",
+      "expandedstorage:oxidized_copper_barrel",
+      "charm:dark_oak_chest",
+      "expandedstorage:gold_mini_chest",
+      "expandedstorage:pink_amethyst_mini_present",
+      "expandedstorage:old_netherite_chest",
+      "expandedstorage:old_gold_chest",
+      "expandedstorage:netherite_mini_chest",
+      "charm:acacia_chest",
+      "minecraft:red_shulker_box",
+      "expandedstorage:wood_mini_chest",
+      "expandedstorage:mini_barrel",
+      "charm:acacia_trapped_chest",
+      "expandedstorage:diamond_mini_barrel",
+      "expandedstorage:lavender_mini_present",
+      "minecraft:green_shulker_box",
+      "expandedstorage:exposed_copper_mini_barrel",
+      "charm:birch_chest",
+      "charm:spruce_chest",
+      "minecraft:black_shulker_box",
+      "expandedstorage:green_mini_present",
+      "expandedstorage:copper_barrel",
+      "charm:warped_barrel",
+      "minecraft:yellow_shulker_box",
+      "expandedstorage:oxidized_copper_mini_barrel",
+      "expandedstorage:bamboo_chest",
+      "expandedstorage:vanilla_wood_mini_chest",
+      "expandedstorage:copper_mini_barrel",
+      "minecraft:cyan_shulker_box",
+      "charm:spruce_trapped_chest",
+      "minecraft:white_shulker_box",
+      "charm:warped_chest",
+      "expandedstorage:gold_mini_barrel",
+      "expandedstorage:waxed_oxidized_copper_barrel",
+      "charm:warped_trapped_chest",
+      "expandedstorage:weathered_copper_barrel",
+      "expandedstorage:candy_cane_mini_present",
+      "expandedstorage:obsidian_barrel",
+      "charm:mangrove_trapped_chest",
+      "charm:jungle_chest",
+      "minecraft:lime_shulker_box",
+      "charm:azalea_chest",
+      "expandedstorage:present",
+      "minecraft:magenta_shulker_box",
+      "charm:crimson_trapped_chest",
+      "expandedstorage:diamond_chest",
+      "expandedstorage:obsidian_mini_chest",
+      "charm:jungle_barrel",
+      "minecraft:ender_chest",
+      "charm:crimson_chest",
+      "expandedstorage:waxed_copper_barrel",
+      "expandedstorage:waxed_oxidized_copper_mini_barrel",
+      "expandedstorage:pumpkin_chest",
+      "charm:oak_barrel",
+      "expandedstorage:iron_mini_barrel",
+      "charm:spruce_barrel",
+      "expandedstorage:old_diamond_chest",
+      "charm:dark_oak_trapped_chest",
+      "charm:mangrove_barrel",
+      "expandedstorage:old_iron_chest",
+      "expandedstorage:old_wood_chest",
+      "charm:crimson_barrel",
+      "minecraft:light_blue_shulker_box",
+      "expandedstorage:waxed_copper_mini_barrel",
+      "expandedstorage:red_mini_present",
+      "expandedstorage:obsidian_chest",
+      "expandedstorage:diamond_barrel",
+      "charm:birch_trapped_chest",
+      "minecraft:barrel",
+      "expandedstorage:wood_chest",
+      "expandedstorage:gold_chest",
+      "charm:ebony_chest",
+      "expandedstorage:netherite_mini_barrel",
+      "expandedstorage:iron_chest",
+      "charm:dark_oak_barrel"
+    ],
+    "stackingTargetEntities": [
+      "minecraft:trader_llama",
+      "minecraft:chest_boat",
+      "minecraft:mule",
+      "minecraft:donkey",
+      "minecraft:llama",
+      "minecraft:chest_minecart"
+    ],
+    "itemsThatWillNotBeStacked": [
+      "minecraft:pink_shulker_box",
+      "minecraft:orange_shulker_box",
+      "minecraft:yellow_shulker_box",
+      "minecraft:cyan_shulker_box",
+      "minecraft:purple_shulker_box",
+      "minecraft:brown_shulker_box",
+      "minecraft:red_shulker_box",
+      "minecraft:green_shulker_box",
+      "minecraft:light_gray_shulker_box",
+      "minecraft:magenta_shulker_box",
+      "minecraft:blue_shulker_box",
+      "minecraft:lime_shulker_box",
+      "minecraft:light_blue_shulker_box",
+      "minecraft:white_shulker_box",
+      "minecraft:gray_shulker_box",
+      "minecraft:black_shulker_box",
+      "minecraft:shulker_box"
+    ],
+    "restockingSources": [
+      "minecraft:orange_shulker_box",
+      "expandedstorage:iron_barrel",
+      "expandedstorage:iron_mini_chest",
+      "expandedstorage:moss_chest",
+      "charm:birch_barrel",
+      "expandedstorage:white_mini_present",
+      "expandedstorage:obsidian_mini_barrel",
+      "minecraft:trapped_chest",
+      "charm:oak_chest",
+      "charm:mangrove_chest",
+      "expandedstorage:pumpkin_mini_chest",
+      "expandedstorage:diamond_mini_chest",
+      "charm:ebony_trapped_chest",
+      "minecraft:purple_shulker_box",
+      "expandedstorage:waxed_exposed_copper_mini_barrel",
+      "minecraft:gray_shulker_box",
+      "charm:azalea_barrel",
+      "charm:jungle_trapped_chest",
+      "expandedstorage:netherite_chest",
+      "minecraft:shulker_box",
+      "expandedstorage:waxed_weathered_copper_barrel",
+      "charm:ebony_barrel",
+      "expandedstorage:weathered_copper_mini_barrel",
+      "charm:azalea_trapped_chest",
+      "minecraft:pink_shulker_box",
+      "expandedstorage:waxed_exposed_copper_barrel",
+      "expandedstorage:exposed_copper_barrel",
+      "minecraft:light_gray_shulker_box",
+      "charm:oak_trapped_chest",
+      "expandedstorage:waxed_weathered_copper_mini_barrel",
+      "minecraft:blue_shulker_box",
+      "minecraft:brown_shulker_box",
+      "expandedstorage:gold_barrel",
+      "minecraft:chest",
+      "expandedstorage:netherite_barrel",
+      "charm:acacia_barrel",
+      "expandedstorage:old_obsidian_chest",
+      "expandedstorage:oxidized_copper_barrel",
+      "charm:dark_oak_chest",
+      "expandedstorage:gold_mini_chest",
+      "expandedstorage:pink_amethyst_mini_present",
+      "expandedstorage:old_netherite_chest",
+      "expandedstorage:old_gold_chest",
+      "expandedstorage:netherite_mini_chest",
+      "charm:acacia_chest",
+      "minecraft:red_shulker_box",
+      "expandedstorage:wood_mini_chest",
+      "expandedstorage:mini_barrel",
+      "charm:acacia_trapped_chest",
+      "expandedstorage:diamond_mini_barrel",
+      "expandedstorage:lavender_mini_present",
+      "minecraft:green_shulker_box",
+      "expandedstorage:exposed_copper_mini_barrel",
+      "charm:birch_chest",
+      "charm:spruce_chest",
+      "minecraft:black_shulker_box",
+      "expandedstorage:green_mini_present",
+      "expandedstorage:copper_barrel",
+      "charm:warped_barrel",
+      "minecraft:yellow_shulker_box",
+      "expandedstorage:oxidized_copper_mini_barrel",
+      "expandedstorage:bamboo_chest",
+      "expandedstorage:vanilla_wood_mini_chest",
+      "expandedstorage:copper_mini_barrel",
+      "minecraft:cyan_shulker_box",
+      "charm:spruce_trapped_chest",
+      "minecraft:white_shulker_box",
+      "charm:warped_chest",
+      "expandedstorage:gold_mini_barrel",
+      "expandedstorage:waxed_oxidized_copper_barrel",
+      "charm:warped_trapped_chest",
+      "expandedstorage:weathered_copper_barrel",
+      "expandedstorage:candy_cane_mini_present",
+      "expandedstorage:obsidian_barrel",
+      "charm:mangrove_trapped_chest",
+      "charm:jungle_chest",
+      "minecraft:lime_shulker_box",
+      "charm:azalea_chest",
+      "expandedstorage:present",
+      "minecraft:magenta_shulker_box",
+      "charm:crimson_trapped_chest",
+      "expandedstorage:diamond_chest",
+      "expandedstorage:obsidian_mini_chest",
+      "charm:jungle_barrel",
+      "minecraft:ender_chest",
+      "charm:crimson_chest",
+      "expandedstorage:waxed_copper_barrel",
+      "expandedstorage:waxed_oxidized_copper_mini_barrel",
+      "expandedstorage:pumpkin_chest",
+      "charm:oak_barrel",
+      "expandedstorage:iron_mini_barrel",
+      "charm:spruce_barrel",
+      "expandedstorage:old_diamond_chest",
+      "charm:dark_oak_trapped_chest",
+      "charm:mangrove_barrel",
+      "expandedstorage:old_iron_chest",
+      "expandedstorage:old_wood_chest",
+      "charm:crimson_barrel",
+      "minecraft:light_blue_shulker_box",
+      "expandedstorage:waxed_copper_mini_barrel",
+      "expandedstorage:red_mini_present",
+      "expandedstorage:obsidian_chest",
+      "expandedstorage:diamond_barrel",
+      "charm:birch_trapped_chest",
+      "minecraft:barrel",
+      "expandedstorage:wood_chest",
+      "expandedstorage:gold_chest",
+      "charm:ebony_chest",
+      "expandedstorage:netherite_mini_barrel",
+      "expandedstorage:iron_chest",
+      "charm:dark_oak_barrel"
+    ],
+    "restockingSourceEntities": [
+      "minecraft:trader_llama",
+      "minecraft:chest_boat",
+      "minecraft:mule",
+      "minecraft:donkey",
+      "minecraft:llama",
+      "minecraft:chest_minecart"
+    ],
+    "itemsThatWillNotBeRestocked": [
+      "minecraft:pink_shulker_box",
+      "minecraft:orange_shulker_box",
+      "minecraft:yellow_shulker_box",
+      "minecraft:cyan_shulker_box",
+      "minecraft:purple_shulker_box",
+      "minecraft:brown_shulker_box",
+      "minecraft:red_shulker_box",
+      "minecraft:green_shulker_box",
+      "minecraft:light_gray_shulker_box",
+      "minecraft:magenta_shulker_box",
+      "minecraft:blue_shulker_box",
+      "minecraft:lime_shulker_box",
+      "minecraft:light_blue_shulker_box",
+      "minecraft:white_shulker_box",
+      "minecraft:gray_shulker_box",
+      "minecraft:black_shulker_box",
+      "minecraft:shulker_box"
+    ]
+  },
+  "keymap": {
+    "stackToNearbyContainersKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "quickStackItemsOfTheSameTypeAsTheOneUnderTheCursorToNearbyContainersKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "restockFromNearbyContainersKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "quickStackKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "restockKey": {
+      "keys": [],
+      "defaultKeys": []
+    },
+    "showMarkersForFavoritedItemsKey": {
+      "keys": [
+        342
+      ],
+      "defaultKeys": [
+        342
+      ]
+    },
+    "markAsFavoriteKey": {
+      "keys": [
+        342,
+        -99
+      ],
+      "defaultKeys": [
+        342,
+        -99
+      ]
+    },
+    "openModOptionsScreenKey": {
+      "keys": [
+        341,
+        83,
+        67
+      ],
+      "defaultKeys": [
+        341,
+        83,
+        67
+      ]
+    }
+  }
+}
