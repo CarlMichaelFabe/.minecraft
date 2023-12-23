@@ -209,7 +209,7 @@ _version = 2
 			# DEBUG: Debug testing renderer 
 			# DISABLED: Disable rendering
 			# 
-			rendererMode = "DEFAULT"
+			rendererMode = "DISABLED"
 			# If enabled the LODs will render as wireframe.
 			# 
 			renderWireframe = false
