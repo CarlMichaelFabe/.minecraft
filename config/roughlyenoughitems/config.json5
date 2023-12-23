@@ -28,7 +28,7 @@
 				"modifier": 1
 			},
 			"focusSearchFieldKeybind": {
-				"keyCode": "key.keyboard.keypad.enter",
+				"keyCode": "key.keyboard.tab",
 				"modifier": 0
 			},
 			"copyRecipeIdentifierKeybind": {
