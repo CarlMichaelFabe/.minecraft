@@ -1,19 +1,22 @@
+[client]
 
-# This is an example boolean property
-exampleBoolean = true
-exampleEnum = "Hello"
-exampleEnumList = [ "Hello", "World" ]
-exampleInt = 42
-exampleIntList = [ 12, 24 ]
-exampleMultilineString = "Hello World"
-exampleString = "Hello World"
-exampleStringList = [ "Hello", "World" ]
+# Add mod ids here of mods that you wish to disable Crafting Tweaks support for.
+disabledAddons = [  ]
 
+# We both know JEI is much better. This option hides Vanilla's crafting book button instead of moving it.
+hideVanillaCraftingGuide = false
 
-# This is an example category
-[exampleCategory]
-exampleFloat = 42.84
+# Set to 'DEFAULT' to enable both buttons and hotkeys. Set to 'BUTTONS' to enable buttons only. Set to 'HOTKEYS' to enable hotkeys only. Set to 'DISABLED' to disable completely.
+mode = "DEFAULT"
 
-# This is an example string inside a category
-innerField = "I am inside"
+# If set to true, right-clicking the result slot in a crafting table will craft a full stack.
+rightClickCraftsStack = true
+
+[common]
+
+# A list of modid:name entries that will not be crafted by the compress key.
+compressDenylist = [ "minecraft:sandstone", "minecraft:iron_trapdoor" ]
+
+# Set this to false if you want the (de)compress feature to work outside of crafting GUIs (only works if installed on server while in the player inventory)
+compressRequiresCraftingGrid = true
 
