@@ -1,0 +1,6 @@
+{
+	// Whether or not copper fittings have an interactable GUI
+	"openableFittings": true,
+	"dispensing": true,
+	"specialEffectDispensing": true,
+}
