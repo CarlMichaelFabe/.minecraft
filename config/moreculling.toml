@@ -17,7 +17,15 @@ entityModelCulling = false
 useOnModdedBlocksByDefault = true
 
 [modCompatibility]
+ironchests = true
+spikyspikes = true
+barteringstation = true
+travelersbackpack = true
+lunade = true
 betternether = true
 wunderreich = true
+extended_drawers = true
+universal_graves = true
+openblocks = true
 betterend = true
 minecraft = true
