@@ -43,8 +43,14 @@ allowScreensByDefault = true
 # | ""                   | No tab at all!                             | Use this to disable bad block tabs in your pack.
 # 
 [blockProviderOverrides]
-	"minecraft:crafting_table" = "inventory_tabs:block_unique"
+	"minecraft:crafting_table" = "inventory_tabs:block_simple"
 	"minecraft:fletching_table" = ""
+	"extended_drawers:double_drawer" = ""
+	"minecraft:anvil" = "inventory_tabs:block_simple"
+	"extended_drawers:quad_drawer" = ""
+	"extended_drawers:compacting_drawer" = ""
+	"extended_drawers:single_drawer" = ""
+	"extended_drawers:shadow_drawer" = ""
 # 
 # -------------------------------
 # 
