@@ -33,7 +33,7 @@
     },
     "quickStackButtonPosX": {
       "defaultValue": 6,
-      "value": 6
+      "value": -6
     },
     "quickStackButtonPosY": {
       "defaultValue": -10,
@@ -41,7 +41,7 @@
     },
     "restockButtonPosX": {
       "defaultValue": 6,
-      "value": 6
+      "value": -6
     },
     "restockButtonPosY": {
       "defaultValue": 10,
