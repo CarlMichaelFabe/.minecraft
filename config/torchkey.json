@@ -1,0 +1,8 @@
+{
+  "validTorches": [
+    "torch",
+    "redstone_torch",
+    "stone_torch",
+    "soul_torch"
+  ]
+}
