@@ -17,7 +17,7 @@ compactLargeContainers = false
 # Logs all registered screen handler IDs for use in screen overrides.
 # Logs all registry tab provider contents (blocks etc) to help find bad tabs.
 # default: false
-configLogging = false
+configLogging = true
 # Whether to show tabs on screens that aren't specified below.
 # default: true
 allowScreensByDefault = true
@@ -28,7 +28,53 @@ allowScreensByDefault = true
 # Manually set whether tabs should be shown on a given screen.
 # 
 [screenOverrides]
+	"travelersbackpack:magma_cube" = false
+	"travelersbackpack:ocelot" = false
+	"travelersbackpack:skeleton" = false
+	"travelersbackpack:gold" = false
+	"travelersbackpack:redstone" = false
+	"travelersbackpack:melon" = false
+	"travelersbackpack:chicken" = false
+	"travelersbackpack:diamond" = false
+	"travelersbackpack:enderman" = false
+	"travelersbackpack:travelers_backpack_block_entity" = false
+	"travelersbackpack:spider" = false
 	"minecraft:smoker" = true
+	"travelersbackpack:coal" = false
+	"travelersbackpack:travelers_backpack_item" = false
+	"travelersbackpack:horse" = false
+	"travelersbackpack:bee" = false
+	"travelersbackpack:wolf" = false
+	"travelersbackpack:sponge" = false
+	"travelersbackpack:emerald" = false
+	"travelersbackpack:dragon" = false
+	"travelersbackpack:bookshelf" = false
+	"travelersbackpack:creeper" = false
+	"travelersbackpack:cow" = false
+	"travelersbackpack:squid" = false
+	"travelersbackpack:sandstone" = false
+	"travelersbackpack:netherite" = false
+	"travelersbackpack:snow" = false
+	"travelersbackpack:bat" = false
+	"travelersbackpack:pumpkin" = false
+	"travelersbackpack:pig" = false
+	"travelersbackpack:lapis" = false
+	"travelersbackpack:fox" = false
+	"travelersbackpack:end" = false
+	"travelersbackpack:cactus" = false
+	"travelersbackpack:cake" = false
+	"travelersbackpack:wither" = false
+	"travelersbackpack:standard" = false
+	"travelersbackpack:villager" = false
+	"travelersbackpack:hay" = false
+	"travelersbackpack:sheep" = false
+	"travelersbackpack:iron_golem" = false
+	"travelersbackpack:iron" = false
+	"travelersbackpack:quartz" = false
+	"travelersbackpack:nether" = false
+	"travelersbackpack:blaze" = false
+	"travelersbackpack:ghast" = false
+	"armorstands:armor_stand" = false
 # 
 # -------------------------------
 # 
