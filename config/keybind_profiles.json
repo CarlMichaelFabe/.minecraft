@@ -1,0 +1,421 @@
+{
+  "profiles": [
+    {
+      "keyBinds": {
+        "key.resolutioncontrol.settings": {
+          "key": "key.keyboard.o",
+          "modifiers": "0,0,1"
+        },
+        "key.amecs.toggle_left_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.decompressAll": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_cape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.voice_chat_toggle_recording": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.toggle_waypoints": {
+          "key": "key.keyboard.z",
+          "modifiers": "0,0,1"
+        },
+        "key.voice_chat": {
+          "key": "key.keyboard.v",
+          "modifiers": "0,1,0"
+        },
+        "key.togglePerspective": {
+          "key": "key.keyboard.f5",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.map_toggle_alt": {
+          "key": "key.keyboard.j",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.minimap_toggle_alt": {
+          "key": "key.keyboard.m",
+          "modifiers": "0,0,1"
+        },
+        "key.presencefootsteps.settings": {
+          "key": "key.keyboard.f10",
+          "modifiers": "0,0,0"
+        },
+        "key.left": {
+          "key": "key.keyboard.a",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_jacket": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.refill_last": {
+          "key": "key.keyboard.tab",
+          "modifiers": "0,1,0"
+        },
+        "key.journeymap.fullscreen.north": {
+          "key": "key.keyboard.up",
+          "modifiers": "0,0,0"
+        },
+        "key.whisper": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.attack": {
+          "key": "key.mouse.left",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.rotate": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.use": {
+          "key": "key.mouse.right",
+          "modifiers": "0,0,0"
+        },
+        "key.jade.config": {
+          "key": "key.keyboard.keypad.0",
+          "modifiers": "0,0,0"
+        },
+        "key.loadToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen_create_waypoint": {
+          "key": "key.keyboard.b",
+          "modifiers": "0,0,0"
+        },
+        "key.forward": {
+          "key": "key.keyboard.w",
+          "modifiers": "0,0,0"
+        },
+        "key.back": {
+          "key": "key.keyboard.s",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.refill_last_stack": {
+          "key": "key.keyboard.tab",
+          "modifiers": "0,0,0"
+        },
+        "key.inventory": {
+          "key": "key.keyboard.e",
+          "modifiers": "0,0,0"
+        },
+        "key.drop": {
+          "key": "key.keyboard.q",
+          "modifiers": "0,0,0"
+        },
+        "key.modmenu.open_menu": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.alternative_escape": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jade.show_details_alternative": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.clear": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen_waypoints": {
+          "key": "key.keyboard.n",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_hat": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.create_waypoint": {
+          "key": "key.keyboard.b",
+          "modifiers": "0,0,0"
+        },
+        "key.push_to_talk": {
+          "key": "key.keyboard.caps.lock",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.spread": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamic_fps.toggle_disabled": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.compressAll": {
+          "key": "key.keyboard.k",
+          "modifiers": "1,0,0"
+        },
+        "key.journeymap.zoom_in": {
+          "key": "key.keyboard.equal",
+          "modifiers": "0,0,0"
+        },
+        "key.advancements": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.voice_chat_adjust_volumes": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.torchkey.placetorch": {
+          "key": "key.mouse.middle",
+          "modifiers": "0,0,0"
+        },
+        "key.swapOffhand": {
+          "key": "key.keyboard.f",
+          "modifiers": "0,0,0"
+        },
+        "key.saveToolbarActivator": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.force_clear": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jump": {
+          "key": "key.keyboard.space",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.minimap_preset": {
+          "key": "key.keyboard.backslash",
+          "modifiers": "0,0,0"
+        },
+        "key.playerlist": {
+          "key": "key.keyboard.tab",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.balance": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.voice_chat_settings": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jade.narrate": {
+          "key": "key.keyboard.keypad.5",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.zoom_out": {
+          "key": "key.keyboard.minus",
+          "modifiers": "0,0,0"
+        },
+        "key.sneak": {
+          "key": "key.keyboard.left.shift",
+          "modifiers": "0,0,0"
+        },
+        "key.disable_voice_chat": {
+          "key": "key.keyboard.n",
+          "modifiers": "0,0,1"
+        },
+        "key.voice_chat_group": {
+          "key": "key.keyboard.g",
+          "modifiers": "0,1,0"
+        },
+        "key.sprint": {
+          "key": "key.keyboard.left.control",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.compressOne": {
+          "key": "key.keyboard.k",
+          "modifiers": "0,1,0"
+        },
+        "armorstands.key.highlight_armor_stand": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.mute_microphone": {
+          "key": "key.keyboard.m",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.decompressStack": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.chat": {
+          "key": "key.keyboard.c",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen.south": {
+          "key": "key.keyboard.down",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_pants_leg": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.fullscreen": {
+          "key": "key.keyboard.f11",
+          "modifiers": "0,0,0"
+        },
+        "key.smoothCamera": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "autothirdperson.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen.disable_buttons": {
+          "key": "key.keyboard.h",
+          "modifiers": "0,0,0"
+        },
+        "key.dynamic_fps.toggle_forced": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.jade.show_overlay": {
+          "key": "key.keyboard.keypad.1",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen.west": {
+          "key": "key.keyboard.left",
+          "modifiers": "0,0,0"
+        },
+        "key.command": {
+          "key": "key.keyboard.slash",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen_options": {
+          "key": "key.keyboard.o",
+          "modifiers": "0,0,0"
+        },
+        "key.inventorysorter.sort": {
+          "key": "key.mouse.middle",
+          "modifiers": "0,0,0"
+        },
+        "zoomify.key.zoom.secondary": {
+          "key": "key.keyboard.f6",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.compressStack": {
+          "key": "key.keyboard.k",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen.east": {
+          "key": "key.keyboard.right",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.decompressOne": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "zoomify.key.zoom": {
+          "key": "key.keyboard.c",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.minimap_type": {
+          "key": "key.keyboard.left.bracket",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.8": {
+          "key": "key.keyboard.8",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.7": {
+          "key": "key.keyboard.7",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.6": {
+          "key": "key.keyboard.6",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.5": {
+          "key": "key.keyboard.5",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.4": {
+          "key": "key.keyboard.4",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.3": {
+          "key": "key.keyboard.3",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.2": {
+          "key": "key.keyboard.2",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.1": {
+          "key": "key.keyboard.1",
+          "modifiers": "0,0,0"
+        },
+        "key.spectatorOutlines": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_auto_jump": {
+          "key": "key.keyboard.b",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_left_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.pickItem": {
+          "key": "key.mouse.middle",
+          "modifiers": "0,0,0"
+        },
+        "key.socialInteractions": {
+          "key": "key.keyboard.p",
+          "modifiers": "0,1,0"
+        },
+        "key.jade.toggle_liquid": {
+          "key": "key.keyboard.keypad.2",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.rotate_counter_clockwise": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.amecs.toggle_right_sleeve": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hotbar.9": {
+          "key": "key.keyboard.9",
+          "modifiers": "0,0,0"
+        },
+        "key.resolutioncontrol.screenshot": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.right": {
+          "key": "key.keyboard.d",
+          "modifiers": "0,0,0"
+        },
+        "key.screenshot": {
+          "key": "key.keyboard.f2",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.transfer_stack": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.hide_icons": {
+          "key": "key.keyboard.h",
+          "modifiers": "0,1,0"
+        },
+        "key.journeymap.fullscreen_chat_position": {
+          "key": "key.keyboard.c",
+          "modifiers": "0,0,0"
+        },
+        "key.entityculling.toggle": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        }
+      },
+      "name": "Test"
+    }
+  ]
+}
