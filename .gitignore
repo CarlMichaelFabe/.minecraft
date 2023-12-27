@@ -6,6 +6,10 @@
 !/datapacks/
 !/global_packs/
 !/journeymap/
+!/CustomSkinLoader/
+/CustomSkinLoader/*
+!/CustomSkinLoader/Plugins
+!/CustomSkinLoader/CustomSkinLoader.json
 /journeymap/*
 !/journeymap/config/
 !/journeymap/server/
