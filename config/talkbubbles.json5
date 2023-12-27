@@ -9,5 +9,7 @@
 	"backgroundRed": 1.0,
 	"backgroundGreen": 1.0,
 	"backgroundBlue": 1.0,
+	// 0 = disabled
+	"maxUUIDWordCheck": 0,
 	"showOwnBubble": true
 }
