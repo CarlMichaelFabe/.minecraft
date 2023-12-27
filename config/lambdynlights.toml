@@ -224,6 +224,35 @@ mode = "fancy"
 			[light_sources.settings.entities.items_displayed]
 				item_display = true
 
+			[light_sources.settings.entities.naturalist]
+				deer = true
+				zebra = true
+				rattlesnake = true
+				snail = true
+				alligator = true
+				canary = true
+				firefly = true
+				rhino = true
+				bluejay = true
+				snake = true
+				coral_snake = true
+				cardinal = true
+				lion = true
+				vulture = true
+				catfish = true
+				robin = true
+				boar = true
+				bass = true
+				tortoise = true
+				giraffe = true
+				butterfly = true
+				sparrow = true
+				lizard = true
+				elephant = true
+
+			[light_sources.settings.entities.anxff]
+				firefly = true
+
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true
@@ -244,6 +273,69 @@ mode = "fancy"
 				silk_moth = true
 				end_fish = true
 
+			[light_sources.settings.entities.friendsandfoes]
+				glare = true
+				copper_golem = true
+				tuff_golem = true
+				mauler = true
+
 			[light_sources.settings.entities.universal_graves]
 				xp = true
+
+			[light_sources.settings.entities.hybrid-aquatic]
+				zebra_danio = true
+				sea_urchin = true
+				fried_egg_jellyfish = true
+				compass_jellyfish = true
+				blue_spotted_stingray = true
+				anglerfish = true
+				tiger_barb = true
+				cauliflower_jellyfish = true
+				sea_nettle = true
+				bull_shark = true
+				barreleye = true
+				seahorse = true
+				blue_tang = true
+				rockfish = true
+				tiger_shark = true
+				mahimahi = true
+				toadfish = true
+				gourami = true
+				nautilus = true
+				basking_shark = true
+				dragonfish = true
+				glowing_sucker_octopus = true
+				flashlight_fish = true
+				stonefish = true
+				giant_clam = true
+				needlefish = true
+				mauve_stinger = true
+				moon_jellyfish = true
+				nudibranch = true
+				whale_shark = true
+				vampire_squid = true
+				hammerhead_shark = true
+				unicorn_fish = true
+				cowfish = true
+				clownfish = true
+				cuttlefish = true
+				atolla_jellyfish = true
+				thresher_shark = true
+				starfish = true
+				blue_jellyfish = true
+				triggerfish = true
+				lionfish = true
+				ratfish = true
+				oarfish = true
+				hermit_crab = true
+				firefly_squid = true
+				great_white_shark = true
+				sunfish = true
+				sea_cucumber = true
+				yellowfin_tuna = true
+				opah = true
+				moray_eel = true
+				frilled_shark = true
+				crab = true
+				fiddler_crab = true
 
