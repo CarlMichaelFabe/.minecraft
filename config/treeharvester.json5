@@ -6,7 +6,7 @@
 	// Whether the mod should attempt to find the actual bottom log of the tree and start there. This means you can break a tree in the middle and it will still completely be felled.
 	"automaticallyFindBottomBlock": true,
 	// If enabled, the leaves around a broken tree will quickly disappear. Only works with 'instantBreakLeavesAround' disabled.
-	"enableFastLeafDecay": true,
+	"enableFastLeafDecay": false,
 	// If enabled, the warped stem/crimson trees in the nether will also be chopped down quickly.
 	"enableNetherTrees": true,
 	// If enabled, giant/huge mushrooms will also be chopped down quickly.
