@@ -890,7 +890,7 @@
         },
         "key.wands.inc_sel_block": {
           "key": "key.keyboard.z",
-          "modifiers": "0,0,0"
+          "modifiers": "0,1,0"
         },
         "key.voice_chat": {
           "key": "key.keyboard.v",
@@ -941,8 +941,8 @@
           "modifiers": "0,0,0"
         },
         "key.travelersbackpack.inventory": {
-          "key": "key.keyboard.b",
-          "modifiers": "0,0,0"
+          "key": "key.keyboard.e",
+          "modifiers": "1,0,0"
         },
         "key.wands.toggle_stair_slab": {
           "key": "key.keyboard.period",
@@ -1020,11 +1020,11 @@
           "key": "key.keyboard.c",
           "modifiers": "0,0,0"
         },
-        "key.jade.show_details_alternative": {
+        "key.craftingtweaks.clear": {
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
-        "key.craftingtweaks.clear": {
+        "key.jade.show_details_alternative": {
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
@@ -1048,12 +1048,12 @@
           "key": "key.keyboard.caps.lock",
           "modifiers": "0,0,0"
         },
-        "key.travelersbackpack.cycle_tool": {
-          "key": "key.keyboard.z",
-          "modifiers": "0,0,0"
-        },
         "key.craftingtweaks.spread": {
           "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.travelersbackpack.cycle_tool": {
+          "key": "key.keyboard.z",
           "modifiers": "0,0,0"
         },
         "key.itemfavorites.favorite_item": {
@@ -1272,12 +1272,12 @@
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
-        "zoomify.key.zoom": {
-          "key": "key.keyboard.r",
-          "modifiers": "0,0,0"
-        },
         "key.journeymap.minimap_type": {
           "key": "key.keyboard.left.bracket",
+          "modifiers": "0,0,0"
+        },
+        "zoomify.key.zoom": {
+          "key": "key.keyboard.r",
           "modifiers": "0,0,0"
         },
         "key.hotbar.8": {
