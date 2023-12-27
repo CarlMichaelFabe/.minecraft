@@ -16,6 +16,7 @@
   "boundaryFormat": "\u00268[\u0026r$\u00268]",
   "boundaryColor": 5636095,
   "chatLog": true,
+  "chatHidePacket": true,
   "chatWidth": 0,
   "chatMaxMessages": 16384,
   "chatNameFormat": "\u003c$\u003e",
