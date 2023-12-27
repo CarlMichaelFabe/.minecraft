@@ -221,6 +221,9 @@ mode = "fancy"
 				interaction = true
 				wither = true
 
+			[light_sources.settings.entities.items_displayed]
+				item_display = true
+
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
 				firefly = true
