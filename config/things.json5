@@ -14,7 +14,7 @@
 	"sockPerLevelSpeedAmplifier": 0.019999999552965164,
 	"effectLevels": {
 		"mossNecklaceRegen": 2,
-		"miningGloveMomentum": 1,
+		"miningGloveMomentum": 2,
 		"riotGauntletStrength": 1
 	}
 }
