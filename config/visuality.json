@@ -39,6 +39,8 @@
     "minecraft:emerald_ore",
     "minecraft:deepslate_emerald_ore",
     "minecraft:diamond_block",
-    "minecraft:emerald_block"
+    "minecraft:emerald_block",
+    "things:gleaming_ore",
+    "things:deepslate_gleaming_ore"
   ]
 }
