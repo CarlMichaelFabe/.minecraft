@@ -17,7 +17,7 @@ compactLargeContainers = false
 # Logs all registered screen handler IDs for use in screen overrides.
 # Logs all registry tab provider contents (blocks etc) to help find bad tabs.
 # default: false
-configLogging = true
+configLogging = false
 # Whether to show tabs on screens that aren't specified below.
 # default: true
 allowScreensByDefault = true
