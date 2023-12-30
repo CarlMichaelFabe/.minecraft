@@ -278,6 +278,7 @@ mode = "fancy"
 				copper_golem = true
 				tuff_golem = true
 				mauler = true
+				rascal = true
 
 			[light_sources.settings.entities.universal_graves]
 				xp = true
