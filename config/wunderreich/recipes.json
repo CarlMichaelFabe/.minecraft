@@ -401,5 +401,6 @@
   "imprinter/enchantment.betterend.end_veil": true,
   "modify_version": "6.0.4",
   "imprinter/enchantment.things.retribution": true,
-  "imprinter/enchantment.hybrid-aquatic.live_catch": true
+  "imprinter/enchantment.hybrid-aquatic.live_catch": true,
+  "imprinter/enchantment.supplementaries.stasis": true
 }
