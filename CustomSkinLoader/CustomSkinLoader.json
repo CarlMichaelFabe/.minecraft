@@ -3,11 +3,6 @@
   "buildNumber": 26,
   "loadlist": [
     {
-      "name": "Blessing Skin",
-      "type": "CustomSkinAPI",
-      "root": "https://skin.prinzeugen.net/csl/"
-    },
-    {
       "name": "Mojang",
       "type": "MojangAPI",
       "apiRoot": "https://api.mojang.com/",
