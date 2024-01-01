@@ -221,37 +221,43 @@ mode = "fancy"
 				interaction = true
 				wither = true
 
+			[light_sources.settings.entities.anxff]
+				firefly = true
+
+			[light_sources.settings.entities.universal_graves]
+				xp = true
+
 			[light_sources.settings.entities.items_displayed]
 				item_display = true
 
 			[light_sources.settings.entities.naturalist]
 				deer = true
-				zebra = true
-				rattlesnake = true
 				snail = true
 				alligator = true
-				canary = true
-				firefly = true
 				rhino = true
 				bluejay = true
 				snake = true
+				catfish = true
+				robin = true
+				boar = true
+				tortoise = true
+				butterfly = true
+				duck = true
+				bear = true
+				sparrow = true
+				lizard = true
+				zebra = true
+				rattlesnake = true
+				canary = true
+				firefly = true
 				coral_snake = true
 				cardinal = true
 				lion = true
 				vulture = true
-				catfish = true
-				robin = true
-				boar = true
 				bass = true
-				tortoise = true
 				giraffe = true
-				butterfly = true
-				sparrow = true
-				lizard = true
 				elephant = true
-
-			[light_sources.settings.entities.anxff]
-				firefly = true
+				finch = true
 
 			[light_sources.settings.entities.betternether]
 				naga_projectile = true
@@ -265,6 +271,12 @@ mode = "fancy"
 			[light_sources.settings.entities.bclib]
 				chair = true
 
+			[light_sources.settings.entities.dummmmmmy]
+				target_dummy = true
+
+			[light_sources.settings.entities.goated]
+				geep = true
+
 			[light_sources.settings.entities.betterend]
 				dragonfly = true
 				shadow_walker = true
@@ -273,17 +285,19 @@ mode = "fancy"
 				silk_moth = true
 				end_fish = true
 
+			[light_sources.settings.entities.supplementaries]
+				rope_arrow = true
+
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				copper_golem = true
 				tuff_golem = true
 				mauler = true
+				iceologer = true
 				rascal = true
 
-			[light_sources.settings.entities.universal_graves]
-				xp = true
-
 			[light_sources.settings.entities.hybrid-aquatic]
+				barrel_jellyfish = true
 				zebra_danio = true
 				sea_urchin = true
 				fried_egg_jellyfish = true
@@ -326,6 +340,7 @@ mode = "fancy"
 				discus = true
 				atolla_jellyfish = true
 				thresher_shark = true
+				nomura_jellyfish = true
 				starfish = true
 				blue_jellyfish = true
 				triggerfish = true
