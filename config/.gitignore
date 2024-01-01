@@ -3,4 +3,5 @@ litematica/
 minihud/
 stack-to-nearby-chests/locked-slots/
 *cache.json
+gamma_utils.json5
 litematica.json
