@@ -1,0 +1,76 @@
+{
+	"general": {
+		"disableItalic": true,
+		"forceInvisibleItemFrame": false,
+		"giveClientSide": false,
+		"showSymbolButton": true,
+		"showItemSize": true
+	},
+	"colors": {
+		"imagetextHologram": "#FFF1C232",
+		"imagetextMessages": "#FF71C29F",
+		"playerStatue": "#FFCB347D",
+		"usefulBlockStates": "#FF66F5B7",
+		"headGalleryName": "#FF50AF70",
+		"headGalleryTags": "#FF74D02F",
+		"favoriteColors": [
+			"#FFF9FFFE",
+			"#FF9D9D97",
+			"#FF474F52",
+			"#FF1D1D21",
+			"#FF835432",
+			"#FFB02E26",
+			"#FFF9801D",
+			"#FFFED83D",
+			"#FF80C71F",
+			"#FF5E7C16",
+			"#FF169C9C",
+			"#FF3AB3DA",
+			"#FF3C44AA",
+			"#FF8932B8",
+			"#FFC74EBD",
+			"#FFF38BAA"
+		]
+	},
+	"encryptbook": {
+		"asymmetricEncryptKey": 0,
+		"defaultBookMessage": "Hello world",
+		"defaultBookTitle": "Encode book (%s)",
+		"maxMessageLength": 255,
+		"padding": "1234567890qwertyuiopsdfghjklzxcvbnmQWERTYUIOPASDFGHJKLZXCVBNM_,.",
+		"separatorMessage": "-----",
+		"translationKeyPrefix": "secret_mc_"
+	},
+	"headGallery": {
+		"cacheCategories": true,
+		"stylingHeads": true
+	},
+	"headGenerator": {
+		"favoriteSkins": []
+	},
+	"history": {
+		"maxItemHistory": 100,
+		"maxHeadHistory": 100,
+		"automaticallyRecoverScreens": true
+	},
+	"imagetext": {
+		"defaultBookMessage": "Hover over this message to see an image",
+		"defaultItem": "paper",
+		"defaultPreserveImageAspectRatio": true,
+		"maxResolution": 127,
+		"defaultPercentageOfSimilarityToCompress": 2.5
+	},
+	"mineskin": {
+		"apiKey": "",
+		"publicSkins": false
+	},
+	"playerStatue": {
+		"convertSkinWithAlexModelInSteveModel": true,
+		"defaultContainer": "white_shulker_box"
+	},
+	"textFormat": {
+		"defaultItem": "name_tag",
+		"minRainbowHueStep": 0.004999999888241291,
+		"maxRainbowHueStep": 0.15000000596046448
+	}
+}
