@@ -134,7 +134,9 @@
 	},
 	"enableTweaks": true,
 	"additionalTools": [],
-	"additionalMeleeWeapons": [],
+	"additionalMeleeWeapons": [
+		"minecraft:stick"
+	],
 	"additionalRangedWeapons": [],
 	"additionalThrowables": [],
 	"additionalUsableItems": [],
