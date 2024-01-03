@@ -41,6 +41,10 @@
     "minecraft:diamond_block",
     "minecraft:emerald_block",
     "things:gleaming_ore",
-    "things:deepslate_gleaming_ore"
+    "things:deepslate_gleaming_ore",
+    "betternether:nether_ruby_ore",
+    "betternether:nether_ruby_block",
+    "betterend:amber_ore",
+    "betterend:amber_block"
   ]
 }
