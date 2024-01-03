@@ -2118,6 +2118,10 @@
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
+        "key.gamma_utils.max_gamma": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
         "key.journeymap.fullscreen_create_waypoint": {
           "key": "key.keyboard.b",
           "modifiers": "0,0,0"
@@ -2143,7 +2147,7 @@
           "modifiers": "0,0,0"
         },
         "key.cavedust.toggle": {
-          "key": "key.keyboard.keypad.add",
+          "key": "key.keyboard.keypad.decimal",
           "modifiers": "0,0,0"
         },
         "key.drop": {
@@ -2194,12 +2198,12 @@
           "key": "key.keyboard.caps.lock",
           "modifiers": "0,0,0"
         },
-        "key.craftingtweaks.spread": {
-          "key": "key.keyboard.unknown",
-          "modifiers": "0,0,0"
-        },
         "key.travelersbackpack.cycle_tool": {
           "key": "key.keyboard.z",
+          "modifiers": "0,0,0"
+        },
+        "key.craftingtweaks.spread": {
+          "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
         "key.itemfavorites.favorite_item": {
@@ -2246,6 +2250,10 @@
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
+        "key.gamma_utils.decrease_gamma": {
+          "key": "key.keyboard.keypad.subtract",
+          "modifiers": "0,0,0"
+        },
         "key.torchkey.placetorch": {
           "key": "key.mouse.middle",
           "modifiers": "0,0,0"
@@ -2274,11 +2282,19 @@
           "key": "key.keyboard.semicolon",
           "modifiers": "0,0,0"
         },
+        "key.gamma_utils.increase_gamma": {
+          "key": "key.keyboard.keypad.add",
+          "modifiers": "0,0,0"
+        },
         "key.playerlist": {
           "key": "key.keyboard.tab",
           "modifiers": "0,0,0"
         },
         "key.craftingtweaks.balance": {
+          "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.min_gamma": {
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
@@ -2374,12 +2390,12 @@
           "key": "key.keyboard.h",
           "modifiers": "0,0,0"
         },
-        "key.journeymap.fullscreen.west": {
-          "key": "key.keyboard.left",
-          "modifiers": "0,0,0"
-        },
         "key.jade.show_overlay": {
           "key": "key.keyboard.keypad.1",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.fullscreen.west": {
+          "key": "key.keyboard.left",
           "modifiers": "0,0,0"
         },
         "ping-wheel.key.mark-location": {
@@ -2426,12 +2442,12 @@
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
-        "key.journeymap.minimap_type": {
-          "key": "key.keyboard.left.bracket",
-          "modifiers": "0,0,0"
-        },
         "zoomify.key.zoom": {
           "key": "key.keyboard.r",
+          "modifiers": "0,0,0"
+        },
+        "key.journeymap.minimap_type": {
+          "key": "key.keyboard.left.bracket",
           "modifiers": "0,0,0"
         },
         "key.hotbar.8": {
@@ -2486,6 +2502,10 @@
           "key": "key.keyboard.unknown",
           "modifiers": "0,0,0"
         },
+        "key.gamma_utils.gamma_toggle": {
+          "key": "key.keyboard.keypad.divide",
+          "modifiers": "0,0,0"
+        },
         "key.cavedust.reload": {
           "key": "key.keyboard.keypad.enter",
           "modifiers": "0,0,0"
@@ -2508,6 +2528,10 @@
         },
         "key.craftingtweaks.rotate_counter_clockwise": {
           "key": "key.keyboard.unknown",
+          "modifiers": "0,0,0"
+        },
+        "key.gamma_utils.night_vision_toggle": {
+          "key": "key.keyboard.keypad.multiply",
           "modifiers": "0,0,0"
         },
         "key.amecs.toggle_right_sleeve": {
