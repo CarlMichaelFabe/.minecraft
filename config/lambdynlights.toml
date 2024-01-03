@@ -64,16 +64,58 @@ mode = "fancy"
 				decorated_pot = true
 				blast_furnace = true
 
+			[light_sources.settings.block_entities.easyanvils]
+				anvil = true
+
+			[light_sources.settings.block_entities.wunderreich]
+				wunder_kiste_block_entity = true
+
+			[light_sources.settings.block_entities.lightingwand]
+				light = true
+
+			[light_sources.settings.block_entities.universal_graves]
+				visual_grave = true
+				grave = true
+				container_grave = true
+
+			[light_sources.settings.block_entities.easymagic]
+				enchanting_table = true
+
+			[light_sources.settings.block_entities.extended_drawers]
+				compacting_drawer = true
+				drawer = true
+				shadow_drawer = true
+
+			[light_sources.settings.block_entities.betterlily]
+				water_lily_pad = true
+
+			[light_sources.settings.block_entities.visualworkbench]
+				crafting_table = true
+
+			[light_sources.settings.block_entities.lunade]
+				copper_fitting = true
+				copper_pipe = true
+
+			[light_sources.settings.block_entities.rocks]
+				overworld_geyser_blockentity = true
+				nether_geyser_blockentity = true
+
 			[light_sources.settings.block_entities.betternether]
 				furnace = true
 				forge = true
 				nether_brewing_stand = true
 				chest_of_drawers = true
 
+			[light_sources.settings.block_entities.barteringstation]
+				bartering_station = true
+
 			[light_sources.settings.block_entities.bclib]
 				barrel = true
 				chest = true
 				furnace = true
+
+			[light_sources.settings.block_entities.things]
+				placed_item = true
 
 			[light_sources.settings.block_entities.betterend]
 				pedestal = true
@@ -82,16 +124,80 @@ mode = "fancy"
 				end_stone_smelter = true
 				eternal_pedestal = true
 
-			[light_sources.settings.block_entities.wunderreich]
-				wunder_kiste_block_entity = true
+			[light_sources.settings.block_entities.carpeted]
+				carpeted_block = true
 
-			[light_sources.settings.block_entities.universal_graves]
-				visual_grave = true
-				grave = true
-				container_grave = true
+			[light_sources.settings.block_entities.supplementaries]
+				pedestal = true
+				clock_block = true
+				wall_lantern = true
+				blackboard = true
+				flag = true
+				sack = true
+				speaker_block = true
+				key_lockable_tile = true
+				bubble_block = true
+				bellows = true
+				notice_board = true
+				skull_pile = true
+				ceiling_banner = true
+				jar_boat = true
+				cage = true
+				skull_candle = true
+				bamboo_spikes = true
+				trapped_present = true
+				hourglass = true
+				wind_vane = true
+				doormat = true
+				jar = true
+				spring_launcher_arm = true
+				item_shelf = true
+				enderman_head = true
+				turn_table = true
+				faucet = true
+				structure_temp = true
+				block_generator = true
+				book_pile = true
+				rope_knot = true
+				hanging_flower_pot = true
+				statue = true
+				goblet = true
+				urn = true
+				flower_box = true
+				pulley_block = true
+				globe = true
+				timber_frame = true
+				safe = true
+				present = true
+				sign_post = true
+
+			[light_sources.settings.block_entities.ironchests]
+				gold_barrel = true
+				iron_chest = true
+				diamond_chest = true
+				gold_chest = true
+				crystal_chest = true
+				diamond_barrel = true
+				copper_chest = true
+				copper_barrel = true
+				crystal_barrel = true
+				dirt_chest = true
+				obsidian_chest = true
+				obsidian_barrel = true
+				netherite_chest = true
+				netherite_barrel = true
+				iron_barrel = true
+
+			[light_sources.settings.block_entities.hybrid-aquatic]
+				fishing_plaque = true
+				anemone = true
+				message_in_a_bottle = true
 
 			[light_sources.settings.block_entities.travelersbackpack]
 				travelers_backpack = true
+
+			[light_sources.settings.block_entities.spikyspikes]
+				spike = true
 
 		[light_sources.settings.entities]
 
@@ -224,6 +330,16 @@ mode = "fancy"
 			[light_sources.settings.entities.anxff]
 				firefly = true
 
+			[light_sources.settings.entities.fzmm]
+				custom_head = true
+
+			[light_sources.settings.entities.bettertridents]
+				loyal_experience_orb = true
+				loyal_item = true
+
+			[light_sources.settings.entities.lightingwand]
+				light = true
+
 			[light_sources.settings.entities.universal_graves]
 				xp = true
 
@@ -240,6 +356,9 @@ mode = "fancy"
 				catfish = true
 				robin = true
 				boar = true
+				caterpillar = true
+				dragonfly = true
+				duck_egg = true
 				tortoise = true
 				butterfly = true
 				duck = true
@@ -250,12 +369,14 @@ mode = "fancy"
 				rattlesnake = true
 				canary = true
 				firefly = true
+				hippo = true
 				coral_snake = true
 				cardinal = true
 				lion = true
 				vulture = true
 				bass = true
 				giraffe = true
+				lizard_tail = true
 				elephant = true
 				finch = true
 
@@ -286,17 +407,33 @@ mode = "fancy"
 				end_fish = true
 
 			[light_sources.settings.entities.supplementaries]
+				dispenser_minecart = true
+				slingshot_projectile = true
+				falling_ash = true
+				falling_lantern = true
+				falling_urn = true
+				brick_projectile = true
+				pearl_marker = true
+				falling_sack = true
+				red_merchant = true
+				hat_stand = true
+				bomb = true
 				rope_arrow = true
 
 			[light_sources.settings.entities.friendsandfoes]
 				glare = true
 				copper_golem = true
+				player_illusion = true
+				ice_chunk = true
 				tuff_golem = true
+				moobloom = true
 				mauler = true
 				iceologer = true
+				wildfire = true
 				rascal = true
 
 			[light_sources.settings.entities.hybrid-aquatic]
+				tetra = true
 				barrel_jellyfish = true
 				zebra_danio = true
 				sea_urchin = true
@@ -307,6 +444,7 @@ mode = "fancy"
 				tiger_barb = true
 				cauliflower_jellyfish = true
 				sea_nettle = true
+				lions_mane_jellyfish = true
 				bull_shark = true
 				barreleye = true
 				seahorse = true
@@ -346,6 +484,7 @@ mode = "fancy"
 				triggerfish = true
 				lionfish = true
 				ratfish = true
+				sea_angel = true
 				oarfish = true
 				hermit_crab = true
 				firefly_squid = true
