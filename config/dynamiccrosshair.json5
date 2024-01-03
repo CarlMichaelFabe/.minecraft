@@ -133,7 +133,9 @@
 		}
 	},
 	"enableTweaks": true,
-	"additionalTools": [],
+	"additionalTools": [
+		"scannable:scanner"
+	],
 	"additionalMeleeWeapons": [
 		"minecraft:stick"
 	],
