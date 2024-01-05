@@ -1,11 +1,10 @@
 *
 !.gitignore
 
-!Glowing/
-!Glowing/**
 !Better*Leaves*.zip
 !FA+All*.zip
 !FreshAnimations*.zip
 !glowing trims*.zip
+!Glowing.zip
 !VanillaTweaks.zip
 !Variant_Grass*.zip
