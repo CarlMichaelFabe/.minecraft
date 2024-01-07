@@ -12,7 +12,7 @@
     "hideFromTabList": true,
     "enableTextToSpeech": false,
     "ttsMode": "PRESS",
-    "fluidMode": "ANY",
+    "fluidMode": "NONE",
     "reachDistance": 2.0,
     "debug": false,
     "itemModNameTooltip": false,
