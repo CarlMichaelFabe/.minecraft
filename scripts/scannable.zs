@@ -8,14 +8,14 @@ craftingTable.addShaped("scanner", <item:scannable:scanner>, [
         <item:minecraft:iron_bars>
     ],
     [
-        <tag:items:c:iron_ingots>, 
-        <item:minecraft:diamond>, 
-        <tag:items:c:iron_ingots>
+        <tag:items:c:netherite_ingots>, 
+        <item:minecraft:diamond_block>, 
+        <tag:items:c:netherite_ingots>
     ],
     [
-        <item:minecraft:netherite_ingot>, 
-        <item:minecraft:netherite_ingot>, 
-        <item:minecraft:netherite_ingot>
+        <tag:items:c:iron_ingots>, 
+        <item:minecraft:netherite_block>, 
+        <tag:items:c:iron_ingots>
     ]
 ]);
 craftingTable.addShaped("blank_module", <item:scannable:blank_module>, [
