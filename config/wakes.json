@@ -1,30 +1,30 @@
 {
-	"wakeSpawningRules": {
-		"other_players_wake_rules": "WAKES_AND_SPLASHES",
-		"mobs_wake_rules": "WAKES_AND_SPLASHES",
-		"boat_wake_rules": "WAKES_AND_SPLASHES",
-		"player_wake_rules": "WAKES_AND_SPLASHES",
-		"items_wake_rules": "WAKES_AND_SPLASHES"
+	"effectSpawningRules": {
+		"mobs": "SIMULATION_AND_PLANES",
+		"other_players": "SIMULATION_AND_PLANES",
+		"items": "SIMULATION_AND_PLANES",
+		"boat": "SIMULATION_AND_PLANES",
+		"player": "SIMULATION_AND_PLANES"
 	},
 	"wakesInRunningWater": false,
-	"waveSpeed": 0.949999988079071,
+	"wavePropagationFactor": 0.949999988079071,
+	"waveDecayFactor": 0.5,
 	"initialStrength": 20,
 	"paddleStrength": 100,
 	"splashStrength": 100,
-	"minimumProducerVelocity": 0.1,
-	"waveDecay": 0.5,
 	"spawnParticles": true,
+	"disableMod": false,
 	"floodFillDistance": 3,
 	"use9PointStencil": true,
 	"ticksBeforeFill": 2,
 	"drawDebugBoxes": false,
-	"renderWakes": true,
-	"spawnWakes": true,
 	"renderType": "AUTO",
 	"wakeResolution": "SIXTEEN",
 	"wakeOpacity": 1.0,
 	"useWaterBlending": true,
-	"blendMode": "DEFAULT",
+	"blendFunc": "DEFAULT",
+	"srcFactor": "SRC_ALPHA",
+	"dstFactor": "ONE_MINUS_SRC_ALPHA",
 	"colorIntervals": [
 		{
 			"color": "TRANSPARENT",
@@ -72,7 +72,6 @@
 			"upper": 50
 		}
 	],
-	"renderSplashPlane": true,
 	"splashPlaneWidth": 3.0,
 	"splashPlaneHeight": 1.5,
 	"splashPlaneDepth": 2.0,

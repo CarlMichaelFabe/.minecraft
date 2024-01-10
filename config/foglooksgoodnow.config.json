@@ -1,4 +1,5 @@
 {
+	"disableAll": false,
 	"fogStart": 0.90000004,
 	"fogVisibility": 0.75,
 	"fogStartRain": 0.4,
