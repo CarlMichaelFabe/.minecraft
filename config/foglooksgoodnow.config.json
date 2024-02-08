@@ -1,11 +1,11 @@
 {
 	"disableAll": false,
-	"fogStart": 0.90000004,
-	"fogVisibility": 0.75,
+	"fogStart": 0.9,
+	"fogEnd": 0.5,
 	"fogStartRain": 0.4,
-	"fogVisibilityRain": 0.6,
+	"fogEndRain": 0.6,
 	"enableCaveFog": true,
-	"caveFogVisibility": 0.75,
+	"caveFogVisibility": 0.5,
 	"caveFogColor": "#333333FF",
 	"biomeFogOverrides": [
 		{
