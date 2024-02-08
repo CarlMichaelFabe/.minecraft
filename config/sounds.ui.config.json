@@ -108,5 +108,7 @@
 	},
 	"useAtForChatMentions": true,
 	"ignoreSystemChats": true,
-	"ignoreEmptyHotbarSlots": false
+	"ignoreEmptyHotbarSlots": false,
+	"enableChatSoundCooldown": false,
+	"chatSoundCooldown": 0.5
 }
