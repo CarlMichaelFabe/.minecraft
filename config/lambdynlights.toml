@@ -434,6 +434,7 @@ mode = "fancy"
 
 			[light_sources.settings.entities.hybrid-aquatic]
 				tetra = true
+				vampire_crab = true
 				barrel_jellyfish = true
 				zebra_danio = true
 				sea_urchin = true
@@ -473,6 +474,7 @@ mode = "fancy"
 				moon_jellyfish = true
 				nudibranch = true
 				whale_shark = true
+				crayfish = true
 				vampire_squid = true
 				hammerhead_shark = true
 				unicorn_fish = true

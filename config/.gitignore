@@ -2,7 +2,10 @@ continuebutton
 headindex-cache/
 litematica/
 minihud/
+spark/*
+!spark/config.json
 stack-to-nearby-chests/locked-slots/
 *cache.json
 gamma_utils.json5
 litematica.json
+sodium-fingerprint.json
